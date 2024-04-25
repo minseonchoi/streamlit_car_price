@@ -5,7 +5,6 @@ from eda import run_eda
 from ml import run_ml
 
 
-
 def main():
     st.title('자동차 가격 예측 앱')
 
@@ -20,27 +19,6 @@ def main():
 
 
 
-
 if __name__ == '__main__' :
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

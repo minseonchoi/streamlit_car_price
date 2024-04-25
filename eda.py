@@ -59,3 +59,7 @@ def run_eda() :
 
     else :
         st.text('컬럼은 2개 이상 선택해야 합니다.')
+
+
+
+        

@@ -7,3 +7,6 @@ def run_home() :
     st.text('탐색적 데이터 분석과 자동차 구매 금액을 예측하는 앱입니다.')
 
     st.image('./image/car.jpg', use_column_width=True)
+
+
+    
