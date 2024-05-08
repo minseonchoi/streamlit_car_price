@@ -10,7 +10,7 @@ def run_ml():
     # Gender, Age, Annual Salary, Credit Card Debt, Net Worth
 
     # Gender
-    st.text('성별을 선택하세요')
+    st.text('성별을 선택하세요.')
     gender = st.radio('성별 선택', ['남자', '여자'])
     if gender == '남자':
         gender = 1
